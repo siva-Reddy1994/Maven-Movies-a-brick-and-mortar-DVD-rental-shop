@@ -6,7 +6,7 @@ This repository contains my analysis on the Mavenmovies database, which includes
 ### About the Database
 The Mavenmovies database was obtained from OdinSchool, where I am pursuing a Data Science course. The database includes various tables with sample data that can be used for practicing MySQL commands and concepts.
 
-@mavenmovies_queries.sql: SQL file containing a series of queries used to explore and extract insights from the Mavenmovies database
+mysql query.sql: SQL file containing a series of queries used to explore and extract insights from the Mavenmovies database
 README.md: This file
 
 ### Usage
